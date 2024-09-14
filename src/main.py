@@ -1,4 +1,4 @@
-#!/usr/bin/env -S PYTHONPATH=../../telemetry python3
+#!/usr/bin/env -S PYTHONPATH=../telemetry python3
 
 from lib.log import *
 from high_stakes.events import *
